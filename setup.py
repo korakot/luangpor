@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="luangpor", 
-    version="0.0.1",
+    version="0.0.2",
     author="Korakot Chaovavanich",
     author_email="korakot@gmail.com",
     description="Access Luangpor Pramote's talks",
