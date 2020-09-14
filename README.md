@@ -1,2 +1,2 @@
 # luangpor
-Access Luangpor Pramote's youtube video by searching subtitle
+Access Luangpor Pramote's youtube videos by searching captions
